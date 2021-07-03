@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **L4WLI3T/L4WLI3T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![ezgif-7-08b465e61f38](https://user-images.githubusercontent.com/48093400/124349044-da965100-dc0a-11eb-9232-86e5af06c9aa.gif)
-Hi there 👋
-I am broadly interested in Machine Learning, Algorithms, Physics and have worked on projects related to these fields. I Love to explore new technologies and leverage them to solve real life Problems.
+<br/>
+### Hi there 👋<br/>
+#### I am broadly interested in Machine Learning, Algorithms, Physics and have worked on projects related to these fields. I Love to explore new technologies and leverage them to solve real life Problems.
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
