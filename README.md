@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ### Hi there 👋<br/>
 #### I am broadly interested in Machine Learning, Algorithms, Physics and have worked on projects related to these fields. I Love to explore new technologies and leverage them to solve real life Problems.
 ##### <a href="https://www.linkedin.com/in/ameytalekar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5?&logo=linkedin&logoColor=white"/></a>
+<!-- QUOTE:START -->
+<p align="center"><br><i>Nature has a great simplicity and therefore a great beauty.</i><br><i>– Richard Feynman.</i><br></p>
+<!-- QUOTE:END -->
 ### Languages
 ![python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white)
