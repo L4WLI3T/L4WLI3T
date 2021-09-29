@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <!-- QUOTE:START -->
 <p align="center"><br><i>Nature has a great simplicity and therefore a great beauty.</i><br><i>– Richard Feynman.</i><br></p>
 <!-- QUOTE:END -->
+
 ### Languages
 ![python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white)
