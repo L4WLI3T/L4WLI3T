@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f?&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white)
 ![R](https://img.shields.io/badge/R-3776AB?&logo=r&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-ED8B00?&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-X86-3776AB?&logo=assembly&logoColor=white)
 
 ### Technologies
