@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/CSS-239120?&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white)
 ![R](https://img.shields.io/badge/R-3776AB?&logo=r&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-E06666?&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-E06666?&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-X86-3776AB?&logo=assembly&logoColor=white)
 
