@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 ![Dart](https://img.shields.io/badge/Dart-E06666?&logo=dart&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-X86-3776AB?&logo=assembly&logoColor=white)
 
-### Technologies
+### Tech Stacks
+![Informatica](https://img.shields.io/badge/Informatica-FF4D00.svg?style=for-the-badge&logo=Informatica&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 
+### Frameworks/Libraries
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?&logo=numpy&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=white)
